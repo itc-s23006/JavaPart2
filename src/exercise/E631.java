@@ -14,6 +14,6 @@ public class E631 {
         System.out.printf("面積=%.2f%n", t.menseki());
         System.out.printf(
                 "(a,b,c)=(%.1f, %.1f, %.1f)",
-                t.getA(), t.getB(), t.getC());
+                t2.getA(), t2.getB(), t2.getC());
     }
 }
