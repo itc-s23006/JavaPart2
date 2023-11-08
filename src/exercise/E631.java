@@ -1,6 +1,6 @@
 package exercise;
 
-public class E631_1 {
+public class E631 {
     public static void main(String[] args) {
         Triangle t = new Triangle(2.5, 3.0, 5.1);
         System.out.printf("三角形作れる?=%b%n", t.isTriangle());
