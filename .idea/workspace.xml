@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="chapter6-2 まで終わった&#10;練習6-2-1 まで終わった">
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/E631_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Sample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Sample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Tax.java" afterDir="false" />
-    </list>
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="chapter 6 終了。" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +128,7 @@
       <updated>1699334902620</updated>
       <workItem from="1699334903748" duration="1551000" />
       <workItem from="1699336570000" duration="7066000" />
-      <workItem from="1699419334730" duration="8771000" />
+      <workItem from="1699419334730" duration="9079000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -163,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699343757983</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chapter 6 終了。">
+      <option name="closed" value="true" />
+      <created>1699429039847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699429039847</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +171,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="プロジェクト作成直後" />
     <MESSAGE value="chapter6-2 まで終わった&#10;練習6-2-1 まで終わった" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter6-2 まで終わった&#10;練習6-2-1 まで終わった" />
+    <MESSAGE value="chapter 6 終了。" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 6 終了。" />
   </component>
 </project>
