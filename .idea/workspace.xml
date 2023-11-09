@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="chapter 6 終了。">
-      <change afterPath="$PROJECT_DIR$/src/chapter7_2/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_2/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_3/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_4/NoConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_4/NoField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_4/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_4/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/E721_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="chapter 7-2 まで">
+      <change afterPath="$PROJECT_DIR$/src/chapter7_5/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7_5/StaticJoining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7_6/Joining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/Function2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +50,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercise" />
+      <recent name="chapter7_6" />
       <recent name="chapter7_3" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Sample2">
-    <configuration name="E631" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.E631" />
+  <component name="RunManager" selected="アプリケーション.Function2">
+    <configuration name="Function2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.Function2" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E721_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.E721_1" />
+    <configuration name="Joining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_6.Joining" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.*" />
+          <option name="PATTERN" value="chapter7_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter7_4.Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7_4.Sample1" />
+    <configuration name="chapter7_5.Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_5.Sample1" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7_4.*" />
+          <option name="PATTERN" value="chapter7_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Sample2" />
-        <item itemvalue="アプリケーション.chapter7_4.Sample1" />
-        <item itemvalue="アプリケーション.E721_1" />
+        <item itemvalue="アプリケーション.Function2" />
+        <item itemvalue="アプリケーション.Joining" />
         <item itemvalue="アプリケーション.Sample1" />
-        <item itemvalue="アプリケーション.E631" />
+        <item itemvalue="アプリケーション.chapter7_5.Sample1" />
+        <item itemvalue="アプリケーション.Sample2" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +144,7 @@
       <workItem from="1699419334730" duration="9456000" />
       <workItem from="1699504810941" duration="731000" />
       <workItem from="1699505553080" duration="34000" />
-      <workItem from="1699505597379" duration="7101000" />
+      <workItem from="1699505597379" duration="10448000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -198,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699429457708</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chapter 7-2 まで">
+      <option name="closed" value="true" />
+      <created>1699513132078</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699513132078</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +212,7 @@
     <MESSAGE value="プロジェクト作成直後" />
     <MESSAGE value="chapter6-2 まで終わった&#10;練習6-2-1 まで終わった" />
     <MESSAGE value="chapter 6 終了。" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 6 終了。" />
+    <MESSAGE value="chapter 7-2 まで" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 7-2 まで" />
   </component>
 </project>
