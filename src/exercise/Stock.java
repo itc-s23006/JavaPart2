@@ -5,7 +5,13 @@ public final class Stock {
     private final int number;
 
     public Stock(Product product, int number) {
-        this.product = new Product(product.getNumber(), product.getPrice(), product.getName());
+        /* this.product = new Product(
+        product.getNumber(),
+        product.getPrice(),
+        product.getName()
+        );
+        */
+        this.product = new Product(product);
         this.number = number;
     }
 
