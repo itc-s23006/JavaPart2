@@ -4,17 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="chapter 7.5 まで">
-      <change afterPath="$PROJECT_DIR$/src/chapter7_9/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_9/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_1/Generalmember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_1/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_1/SeniorMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_1/StudentMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_2/Generalmember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_2/Lesson.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="chapter 8-2 の途中まで">
+      <change afterPath="$PROJECT_DIR$/src/chapter8_1/GeneralMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8_2/GeneralMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8_3/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8_3/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8_3/Sample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8_3/SeniorMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8_3/StudentMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/E831_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/GeneralMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/SeniorMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/StudentMember.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8_1/Generalmember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8_1/SeniorMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8_1/SeniorMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8_1/StudentMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8_1/StudentMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8_2/Generalmember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8_2/Sample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8_2/Sample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,32 +48,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.general",
-    "settings.editor.splitter.proportion": "0.29969728",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.29969728&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter8_3" />
+      <recent name="chapter8_1" />
+      <recent name="chapter8_2" />
       <recent name="chapter7_9" />
       <recent name="exercise" />
-      <recent name="chapter7_6" />
-      <recent name="chapter7_3" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.chapter8_1.Sample1">
-    <configuration name="E751" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.E751" />
+  <component name="RunManager" selected="アプリケーション.E831_2">
+    <configuration name="E831_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.E831_2" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -77,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7_9.Sample1" />
+    <configuration name="Sample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8_3.Sample2" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7_9.*" />
+          <option name="PATTERN" value="chapter8_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="Sample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7_7.Sample3" />
+      <option name="MAIN_CLASS_NAME" value="chapter8_3.Sample3" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7_7.*" />
+          <option name="PATTERN" value="chapter8_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter7_9.Sample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7_9.Sample2" />
+    <configuration name="chapter8_2.Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8_2.Sample1" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7_9.*" />
+          <option name="PATTERN" value="chapter8_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter8_1.Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_1.Sample1" />
+    <configuration name="chapter8_3.Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8_3.Sample1" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_1.*" />
+          <option name="PATTERN" value="chapter8_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.chapter8_1.Sample1" />
-        <item itemvalue="アプリケーション.chapter7_9.Sample2" />
-        <item itemvalue="アプリケーション.E751" />
-        <item itemvalue="アプリケーション.Sample1" />
+        <item itemvalue="アプリケーション.E831_2" />
         <item itemvalue="アプリケーション.Sample3" />
+        <item itemvalue="アプリケーション.Sample2" />
+        <item itemvalue="アプリケーション.chapter8_3.Sample1" />
+        <item itemvalue="アプリケーション.chapter8_2.Sample1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +167,8 @@
       <workItem from="1699942308897" duration="6414000" />
       <workItem from="1700007304237" duration="157000" />
       <workItem from="1700008530538" duration="186000" />
-      <workItem from="1700023455407" duration="9135000" />
+      <workItem from="1700023455407" duration="9594000" />
+      <workItem from="1700110038114" duration="9791000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -240,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700008652751</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="chapter 8-2 の途中まで">
+      <option name="closed" value="true" />
+      <created>1700035280703</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700035280703</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +271,7 @@
     <MESSAGE value="chapter 7-2 まで" />
     <MESSAGE value="chapter 7-3 まで" />
     <MESSAGE value="chapter 7.5 まで" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 7.5 まで" />
+    <MESSAGE value="chapter 8-2 の途中まで" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 8-2 の途中まで" />
   </component>
 </project>

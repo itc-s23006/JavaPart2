@@ -1,8 +1,8 @@
-package chapter8_1;
+package exercise;
 
 import java.time.LocalDate;
 
-public class StudentMember extends GeneralMember {
+public class StudentMember extends Member {
     private LocalDate expireDate;
 
     public StudentMember(long id, String name, LocalDate expireDate) {
@@ -10,15 +10,20 @@ public class StudentMember extends GeneralMember {
         this.expireDate = expireDate;
     }
 
-    public boolean isExpired() {
-        LocalDate today = LocalDate.now();
-        return today.isAfter(expireDate);
-    }
     public LocalDate getExpireDate() {
         return expireDate;
     }
 
     public void setExpireDate(LocalDate expireDate) {
         this.expireDate = expireDate;
+    }
+
+    @Override
+    public int fee() {
+        return 500;
+    }
+
+    public boolean isExpired() {
+        return LocalDate.now().isAfter(expireDate);
     }
 }

@@ -1,12 +1,14 @@
-package chapter8_1;
+package chapter8_2;
 
-public class Generalmember {
+public class GeneralMember {
     private long id;
     private String name;
+    private Lesson lesson;
 
-    public Generalmember(long id, String name) {
+    public GeneralMember(long id, String name, Lesson lesson) {
         this.id = id;
         this.name = name;
+        this.lesson = lesson;
     }
 
     public int membershipFee() {
@@ -27,5 +29,17 @@ public class Generalmember {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public int fee() {
+        return lesson.fee();
+    }
+
+    public String getLessonId() {
+        return lesson.getLessonId();
+    }
+
+    public String getLessonName() {
+        return lesson.getLessonName();
     }
 }
