@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="教科書P265の途中まで">
-      <change afterPath="$PROJECT_DIR$/src/chapter11_1/RateIntf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_1/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_1/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_1/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_2/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_2/PredExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_2/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_2/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_2/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11_2/Select_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="教科書P265の途中まで" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +160,7 @@
       <workItem from="1700786431052" duration="103000" />
       <workItem from="1701148038396" duration="2172000" />
       <workItem from="1701736549978" duration="10858000" />
-      <workItem from="1701822597049" duration="8929000" />
+      <workItem from="1701822597049" duration="8981000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -294,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701751683693</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="教科書P265の途中まで">
+      <option name="closed" value="true" />
+      <created>1701834301270</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701834301270</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
