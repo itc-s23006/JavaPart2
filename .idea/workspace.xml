@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="教科書P292まで終了。">
-      <change afterPath="$PROJECT_DIR$/src/chapter12_2/ForEachExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12_2/Lesson2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12_2/NaturalSortExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12_2/SortExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Lessen4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Lesson3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Mountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise1/NaturalSortExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise1/SortExample.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="教科書P297まで終了。+ 先生が出した問題">
+      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Lesson5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Meibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12_3/Sample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12_4/Sample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/Exercise1231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -43,36 +42,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.29969728&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/s23006/IdeaProjects/part2/src/exercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.splitter.proportion": "0.29969728",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chapter9_2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercise" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="exercise1" />
+      <recent name="exercise" />
       <recent name="chapter12_3" />
+      <recent name="exercise1" />
       <recent name="chapter12_2" />
       <recent name="chapter11_1" />
-      <recent name="chapter8_3" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Lessen4">
-    <configuration name="Lessen4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12_3.Lessen4" />
+  <component name="RunManager" selected="アプリケーション.chapter12_4.Sample4">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12_3.Book" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +87,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12_3.Lesson3" />
+    <configuration name="Exercise1231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.Exercise1231" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12_3.Lesson5" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -97,21 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12_2.SortExample" />
-      <module name="part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter12_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chapter12_3.NaturalSortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12_3.NaturalSortExample" />
+    <configuration name="Sample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12_3.Sample4" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -123,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise1.SortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.SortExample" />
+    <configuration name="chapter12_4.Sample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12_4.Sample4" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise1.*" />
+          <option name="PATTERN" value="chapter12_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Lessen4" />
-        <item itemvalue="アプリケーション.Lesson3" />
-        <item itemvalue="アプリケーション.exercise1.SortExample" />
-        <item itemvalue="アプリケーション.chapter12_3.NaturalSortExample" />
-        <item itemvalue="アプリケーション.SortExample" />
+        <item itemvalue="アプリケーション.chapter12_4.Sample4" />
+        <item itemvalue="アプリケーション.Exercise1231" />
+        <item itemvalue="アプリケーション.Sample4" />
+        <item itemvalue="アプリケーション.Lesson5" />
+        <item itemvalue="アプリケーション.Book" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +181,8 @@
       <workItem from="1701911460473" duration="8671000" />
       <workItem from="1702019976532" duration="21000" />
       <workItem from="1702265982778" duration="3000" />
-      <workItem from="1702340982017" duration="9957000" />
+      <workItem from="1702340982017" duration="10068000" />
+      <workItem from="1702427674330" duration="8858000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -324,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701920403249</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="教科書P297まで終了。+ 先生が出した問題">
+      <option name="closed" value="true" />
+      <created>1702352635506</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702352635506</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +355,7 @@
     <MESSAGE value="教科書P265の途中まで" />
     <MESSAGE value="教科書P284まで終了。" />
     <MESSAGE value="教科書P292まで終了。" />
-    <option name="LAST_COMMIT_MESSAGE" value="教科書P292まで終了。" />
+    <MESSAGE value="教科書P297まで終了。+ 先生が出した問題" />
+    <option name="LAST_COMMIT_MESSAGE" value="教科書P297まで終了。+ 先生が出した問題" />
   </component>
 </project>
