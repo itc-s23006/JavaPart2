@@ -27,23 +27,34 @@ public class Test2 {
         // }
 
         // 文字列を取得し、入力された文字列の真ん中の部分を一文字抜き出す。ただし、文字列の長さが偶数の場合は二文字
-        System.out.println("文字を入力してください");
-        String d = sc.nextLine();
+        // System.out.println("文字を入力してください");
+        // String d = sc.nextLine();
 
-        int posi = 0;
-        int len = 0;
+        // int b = 0;
+        // int c = 0;
 
-        if (d.length() % 2 == 0) {
-            posi = d.length() / 2 - 1;
-            len = 2;
-        } else {
-            posi = d.length() / 2;
-            len = 1;
-        }
+        // if (d.length() % 2 == 0) {
+            // b = d.length() / 2 - 1;
+            // c = 2;
+        // } else {
+            // b = d.length() / 2;
+            // c = 1;
+        // }
 
-        System.out.println(d.substring(posi, posi + len));
+        // System.out.println(d.substring(b, b + c));
 
         // 入力された文字列に、a, i, u, e, oが含まれている値を求める
+        System.out.println("文字を入力してください");
+        String e= sc.nextLine();
 
+        int d = 0;
+
+        for (int i=0; i<e.length(); i++){
+            char a = e.charAt(d);
+            if (a == 'a' || a == 'i' || a == 'u' || a == 'e' || a == 'o'){
+                d++;
+            }
+        }
+        System.out.println(d);
     }
 }

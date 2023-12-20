@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="教科書chapter12まで終了。+ 先生が出した問題">
-      <change afterPath="$PROJECT_DIR$/src/exercise1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise1/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +61,14 @@
       <recent name="$PROJECT_DIR$/src/exercise" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercise1" />
       <recent name="chapter12_3" />
       <recent name="exercise" />
-      <recent name="exercise1" />
       <recent name="chapter12_2" />
       <recent name="chapter11_1" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Test2">
+  <component name="RunManager" selected="アプリケーション.Test4">
     <configuration name="Exercise1241" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise.Exercise1241" />
       <module name="part2" />
@@ -106,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter12_3.Sample6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12_3.Sample6" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Test4" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter12_3.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Test4" />
         <item itemvalue="アプリケーション.Test2" />
         <item itemvalue="アプリケーション.Test1" />
         <item itemvalue="アプリケーション.Exercise1241" />
         <item itemvalue="アプリケーション.chapter12_3.Sample7" />
-        <item itemvalue="アプリケーション.chapter12_3.Sample6" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +180,8 @@
       <workItem from="1702427674330" duration="9482000" />
       <workItem from="1702514171026" duration="8150000" />
       <workItem from="1702946244561" duration="6442000" />
-      <workItem from="1702952696583" duration="4191000" />
+      <workItem from="1702952696583" duration="4254000" />
+      <workItem from="1703032422644" duration="10044000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -348,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702530476475</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="教科書chapter12まで終了。+ 先生が出した問題">
+      <option name="closed" value="true" />
+      <created>1702957276353</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1702957276353</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
