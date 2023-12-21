@@ -13,39 +13,26 @@ public class Test4 {
         // System.out.println(c);
 
         /*
-        8
-        88
-        888
-        8888
-        88888
-        888888
-        8888888
-        88888888
-        888888888
-        8888888888
-        縦10  横 10
+        2
+        22
+        222
+        2222
+        22222
+        222222
+        2222222
+        22222222
+        222222222
+        2222222222
+         最大 縦10  横 10
          */
-        // int white = 1;
-        // for (int I = 0; I < 10; I++) {
-            // for (int M = 0; M < white; M++) {
-                // System.out.print(2);
-            // }
-            // white++;
-            // System.out.println();
-        // }
-
-        int[] array = new int[3];
-        array[0] = 10;
-        array[1] = 20;
-        array[2] = 30;
-
-        int[] array2 = {10, 20, 30};
-        // --------------------------
-        int[] first = {0, 1, 2};
-        int[] second = {10, 11, 12};
-        int[] result;
-
-        result = new int[first.length + second.length];
+        int white = 1;
+        for (int I = 0; I < 10; I++) {
+            for (int M = 0; M < white; M++) {
+                System.out.print(2);
+            }
+            white++;
+            System.out.println();
+        }
 
     }
 }
