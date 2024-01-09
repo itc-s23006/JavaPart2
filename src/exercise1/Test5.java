@@ -7,4 +7,6 @@ public class Test5 {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
     }
+
+
 }
