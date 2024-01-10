@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="先生が出した問題、数問解いた。">
-      <change afterPath="$PROJECT_DIR$/src/exercise1/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise1/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Test9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise1/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise1/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1/Test7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,33 +67,7 @@
       <recent name="chapter11_1" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Test7">
-    <configuration name="Exercise1241" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.Exercise1241" />
-      <module name="part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.Test1" />
-      <module name="part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="アプリケーション.Test9">
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise1.Test2" />
       <module name="part2" />
@@ -133,13 +107,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Test8" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Test9" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Test9" />
+        <item itemvalue="アプリケーション.Test8" />
         <item itemvalue="アプリケーション.Test7" />
         <item itemvalue="アプリケーション.Test4" />
         <item itemvalue="アプリケーション.Test2" />
-        <item itemvalue="アプリケーション.Test1" />
-        <item itemvalue="アプリケーション.Exercise1241" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +183,8 @@
       <workItem from="1703032422644" duration="10044000" />
       <workItem from="1703049201917" duration="75000" />
       <workItem from="1703118887227" duration="6083000" />
-      <workItem from="1704760876151" duration="3830000" />
+      <workItem from="1704760876151" duration="3873000" />
+      <workItem from="1704847038540" duration="7723000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -377,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703141544128</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="先生が出した問題、数問解いた。">
+      <option name="closed" value="true" />
+      <created>1704771909284</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704771909284</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
