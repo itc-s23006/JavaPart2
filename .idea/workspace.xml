@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="先生が出した問題、数問解いた。">
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise2/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise2/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise2/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise2/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <recent name="chapter11_1" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Test3">
+  <component name="RunManager" selected="アプリケーション.Test5">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise2.Test1" />
       <module name="part2" />
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.Test8" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2.Test4" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise1.*" />
+          <option name="PATTERN" value="exercise2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.Test9" />
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2.Test5" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise1.*" />
+          <option name="PATTERN" value="exercise2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Test5" />
+        <item itemvalue="アプリケーション.Test4" />
         <item itemvalue="アプリケーション.Test3" />
         <item itemvalue="アプリケーション.Test2" />
         <item itemvalue="アプリケーション.Test1" />
-        <item itemvalue="アプリケーション.Test9" />
-        <item itemvalue="アプリケーション.Test8" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +189,7 @@
       <workItem from="1704847038540" duration="8605000" />
       <workItem from="1704933322208" duration="9331000" />
       <workItem from="1705031783467" duration="4000" />
+      <workItem from="1705365289746" duration="9948000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -397,7 +399,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704875780878</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="先生が出した問題、数問解いた。">
+      <option name="closed" value="true" />
+      <created>1705365455130</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1705365455130</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
