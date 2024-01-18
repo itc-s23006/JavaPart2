@@ -3,9 +3,9 @@ package exercise3;
 public class Main {
     public static void main(String[] args) {
 
-            Dog dog = new Dog();
+            /* Dog dog = new Dog();
             dog.size = 2;
-            dog.name = "アレックス";
+            dog.name = "ポチ";
             dog.bark();
 
             Dog dog1 = new Dog();
@@ -16,15 +16,23 @@ public class Main {
             Dog dog2 = new Dog();
             dog2.size = 28;
             dog2.name = "スペディオ";
-            dog2.bark();
+            dog2.bark(); */
 
-            /* Windowsのクラスのオブジェクトを作り、
-            このメインクラスからheightとwidthを変更できるようにする。
-             */
-
-        Window w = new Window(10, 100);
+        /* Window w = new Window(10, 100);
 
         System.out.println(w.getHeight());
         System.out.println(w.getWidth());
+        System.out.println(w.setHeight());
+        System.out.println(w.setWidth()); */
+
+        Student s1 = new Student(3, "Mike");
+
+        System.out.println(s1.getSchoolyear());
+        System.out.println(s1.getName());
+
+        /* Studentクラスのオブジェクトを作る。
+        * 教科を追加するメソッドを呼び出し、
+         登録されている教科を表示する。
+         */
         }
     }
