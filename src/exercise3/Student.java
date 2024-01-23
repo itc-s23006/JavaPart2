@@ -40,4 +40,8 @@ public class Student {
     public void tsuika(String kyouka){
         courses.add(kyouka);
     }
+
+    public ArrayList<String> getCourses(){
+        return courses;
+    }
 }
