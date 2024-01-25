@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="1/23 先生が出した問題、数問解いた。">
-      <change afterPath="$PROJECT_DIR$/src/exercise4/TangoGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise4/Test3.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="1/24 先生が出した問題と単語当てゲームの作成。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise4/TangoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise4/TangoGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +190,9 @@
       <workItem from="1705536623534" duration="12525000" />
       <workItem from="1705741105073" duration="4000" />
       <workItem from="1705969778313" duration="10871000" />
-      <workItem from="1706056471018" duration="10759000" />
+      <workItem from="1706056471018" duration="11049000" />
+      <workItem from="1706067807773" duration="4000" />
+      <workItem from="1706142696255" duration="9804000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -441,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705981350981</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="1/24 先生が出した問題と単語当てゲームの作成。">
+      <option name="closed" value="true" />
+      <created>1706067752630</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1706067752630</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,6 +474,7 @@
     <MESSAGE value="先生が出した問題、数問解いた。" />
     <MESSAGE value="1/18 先生が出した問題、数問解いた(1月の授業から復習)。" />
     <MESSAGE value="1/23 先生が出した問題、数問解いた。" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/23 先生が出した問題、数問解いた。" />
+    <MESSAGE value="1/24 先生が出した問題と単語当てゲームの作成。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/24 先生が出した問題と単語当てゲームの作成。" />
   </component>
 </project>
