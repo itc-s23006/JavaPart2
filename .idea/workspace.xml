@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="1/24 先生が出した問題と単語当てゲームの作成。">
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="1/30 単語当てゲームの作成（パート3）。">
+      <change afterPath="$PROJECT_DIR$/src/exercise4/Marubatsu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/exercise4/TangoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise4/TangoGame.java" afterDir="false" />
     </list>
@@ -65,13 +66,13 @@
       <recent name="chapter11_1" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.TangoGame">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise3.Main" />
+  <component name="RunManager" selected="アプリケーション.Marubatsu">
+    <configuration name="Marubatsu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise4.Marubatsu" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise3.*" />
+          <option name="PATTERN" value="exercise4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Marubatsu" />
         <item itemvalue="アプリケーション.TangoGame" />
         <item itemvalue="アプリケーション.Test3" />
         <item itemvalue="アプリケーション.Test2" />
         <item itemvalue="アプリケーション.Test1" />
-        <item itemvalue="アプリケーション.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +193,10 @@
       <workItem from="1705969778313" duration="10871000" />
       <workItem from="1706056471018" duration="11049000" />
       <workItem from="1706067807773" duration="4000" />
-      <workItem from="1706142696255" duration="9804000" />
+      <workItem from="1706142696255" duration="11272000" />
+      <workItem from="1706574855185" duration="694000" />
+      <workItem from="1706575557998" duration="63000" />
+      <workItem from="1706575627847" duration="10363000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -450,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706067752630</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="1/25 単語当てゲームの作成（パート２）。">
+      <option name="closed" value="true" />
+      <created>1706154006481</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1706154006481</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,6 +487,7 @@
     <MESSAGE value="1/18 先生が出した問題、数問解いた(1月の授業から復習)。" />
     <MESSAGE value="1/23 先生が出した問題、数問解いた。" />
     <MESSAGE value="1/24 先生が出した問題と単語当てゲームの作成。" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/24 先生が出した問題と単語当てゲームの作成。" />
+    <MESSAGE value="1/25 単語当てゲームの作成（パート２）。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/25 単語当てゲームの作成（パート２）。" />
   </component>
 </project>
