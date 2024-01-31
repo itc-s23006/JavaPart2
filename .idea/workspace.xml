@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="1/30 単語当てゲームの作成（パート3）。">
-      <change afterPath="$PROJECT_DIR$/src/exercise4/Marubatsu.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="1/30 単語当てゲームの作成 (パート3(完成))。と, OXゲームの作成 (パート1)。">
+      <change afterPath="$PROJECT_DIR$/src/exercise4/BankApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise4/OXGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise4/TangoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise4/TangoGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise4/Marubatsu.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <recent name="chapter11_1" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Marubatsu">
+  <component name="RunManager" selected="アプリケーション.OXGame">
     <configuration name="Marubatsu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise4.Marubatsu" />
       <module name="part2" />
@@ -80,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TangoGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise4.TangoGame" />
+    <configuration name="OXGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise4.OXGame" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise4.Test1" />
+    <configuration name="TangoGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise4.TangoGame" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.OXGame" />
         <item itemvalue="アプリケーション.Marubatsu" />
         <item itemvalue="アプリケーション.TangoGame" />
         <item itemvalue="アプリケーション.Test3" />
         <item itemvalue="アプリケーション.Test2" />
-        <item itemvalue="アプリケーション.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +197,8 @@
       <workItem from="1706142696255" duration="11272000" />
       <workItem from="1706574855185" duration="694000" />
       <workItem from="1706575557998" duration="63000" />
-      <workItem from="1706575627847" duration="10363000" />
+      <workItem from="1706575627847" duration="10642000" />
+      <workItem from="1706661264965" duration="10257000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -462,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706154006481</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="1/30 単語当てゲームの作成 (パート3(完成))。と, OXゲームの作成 (パート1)。">
+      <option name="closed" value="true" />
+      <created>1706586255168</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1706586255168</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,6 +498,7 @@
     <MESSAGE value="1/23 先生が出した問題、数問解いた。" />
     <MESSAGE value="1/24 先生が出した問題と単語当てゲームの作成。" />
     <MESSAGE value="1/25 単語当てゲームの作成（パート２）。" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/25 単語当てゲームの作成（パート２）。" />
+    <MESSAGE value="1/30 単語当てゲームの作成 (パート3(完成))。と, OXゲームの作成 (パート1)。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/30 単語当てゲームの作成 (パート3(完成))。と, OXゲームの作成 (パート1)。" />
   </component>
 </project>
