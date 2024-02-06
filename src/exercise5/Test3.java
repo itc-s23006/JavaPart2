@@ -4,12 +4,17 @@ public class Test3 {
     public static void main(String[] args) {
         /* 一般的なスポーツの試合人数はn人です。
         * サッカーの試合人数は11人です。*/
+        Sports s = new Sports();
+        s.display();
+
+        Soccer sc = new Soccer();
+        s.display();
     }
 }
 
 class Sports {
     String getName() {
-        return "一般的なスポーツ。";
+        return "一般的なスポーツ";
     }
 
     void display() {
