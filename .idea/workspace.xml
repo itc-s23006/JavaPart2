@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/6 継承の問題(動物)。">
-      <change afterPath="$PROJECT_DIR$/src/sample2/HighSchoolStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample2/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample2/UniversityStudent.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/7 継承の問題(動物(完成)) 。&#10;* 犬と猫。あわせて5匹誕生させ、makeSoundメソッドを実行する。*&#10;*の問題から。&#10;* O時間O分と表示する。 *&#10;*の問題の途中まで。">
+      <change afterPath="$PROJECT_DIR$/src/pizza/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/ChesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Hawaiian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Margerita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample2/Work.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample2/HighSchoolStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample2/HighSchoolStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample2/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample2/UniversityStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample2/UniversityStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -204,7 +207,9 @@
       <workItem from="1706661264965" duration="11049000" />
       <workItem from="1706747871991" duration="10863000" />
       <workItem from="1707179274454" duration="12151000" />
-      <workItem from="1707266042211" duration="10088000" />
+      <workItem from="1707266042211" duration="10477000" />
+      <workItem from="1707352444359" duration="396000" />
+      <workItem from="1707352848128" duration="9583000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -502,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707190808957</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="2/7 継承の問題(動物(完成)) 。&#10;* 犬と猫。あわせて5匹誕生させ、makeSoundメソッドを実行する。*&#10;*の問題から。&#10;* O時間O分と表示する。 *&#10;*の問題の途中まで。">
+      <option name="closed" value="true" />
+      <created>1707277563167</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1707277563167</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,6 +545,7 @@
     <MESSAGE value="1/31 OXゲームの作成(完成)と、銀行のプログラムの作成(パート1)。" />
     <MESSAGE value="2/1 銀行のプログラムの作成(完成)と、継承の問題。" />
     <MESSAGE value="2/6 継承の問題(動物)。" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/6 継承の問題(動物)。" />
+    <MESSAGE value="2/7 継承の問題(動物(完成)) 。&#10;* 犬と猫。あわせて5匹誕生させ、makeSoundメソッドを実行する。*&#10;*の問題から。&#10;* O時間O分と表示する。 *&#10;*の問題の途中まで。" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/7 継承の問題(動物(完成)) 。&#10;* 犬と猫。あわせて5匹誕生させ、makeSoundメソッドを実行する。*&#10;*の問題から。&#10;* O時間O分と表示する。 *&#10;*の問題の途中まで。" />
   </component>
 </project>

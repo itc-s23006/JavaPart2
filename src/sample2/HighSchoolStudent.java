@@ -7,9 +7,10 @@ public class HighSchoolStudent extends Student {
     }
     @Override
     public void calcLessonTime() {
+
         /* 授業時間を算出して、lessonTimeに代入する。
          * 高校生の場合、1コマ50分。
          * 授業回数で掛けて、授業時間を求める。 */
-        lessonTime = lessonCount = 50;
+        lessonTime = lessonCount * 50;
     }
 }
