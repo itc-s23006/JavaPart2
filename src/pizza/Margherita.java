@@ -1,7 +1,7 @@
 package pizza;
 
-public class Margerita extends Pizza{
-    public Margerita() {
+public class Margherita extends Pizza{
+    public Margherita() {
         id = 1;
         name = "マルゲリータ";
         price = 1000;
