@@ -8,6 +8,7 @@ public class Cart {
     /* ピザがたくさん入るリスト型の変数を作る。*/
     private List<Pizza> pizzaList = new ArrayList<>();
     private int total = 0;
+
     /* ピザを追加するメソッド。*/
     /* 引数:追加したいピザのインスタンス。*/
     /* そのインスタンスをpizzaListに追加するメソッド。*/
@@ -25,6 +26,7 @@ public class Cart {
     public void addTotal(int price) {
         total += price;
     }
+
     /* totalの変数の値を返すメソッド。*/
     public int getTotal() {
         return total;

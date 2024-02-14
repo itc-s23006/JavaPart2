@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/8 Programming III&#10;* lessonTimeの値を表示する。 O時間O分と表示する。*&#10;↑完成&#10;*の問題から。&#10;* 各クラスに&quot;ピザの名前&quot;とピザの値段を追加。*&#10;*の問題まで。">
-      <change afterPath="$PROJECT_DIR$/src/pizza/Main.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/13 Programming III&#10;* 配列かリストを作り、それぞれのピザのインスタンスを入れる。*&#10;*の問題から。&#10;* 支払いに進むので合計金額を表示する。*&#10;*の問題まで。">
+      <change afterPath="$PROJECT_DIR$/src/exception1/Lesson1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception1/Lesson2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pizza/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pizza/ChesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/CheeseBacon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pizza/HawaiianPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/Hawaiian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pizza/Margerita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/Margherita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pizza/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pizza/PotatoPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pizza/PotatoMayoCorn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +69,13 @@
       <recent name="chapter11_1" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.pizza.Main">
-    <configuration name="BankApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise4.BankApplication" />
+  <component name="RunManager" selected="アプリケーション.Lesson1">
+    <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception1.Lesson1" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise4.*" />
+          <option name="PATTERN" value="exception1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Lesson1" />
         <item itemvalue="アプリケーション.pizza.Main" />
         <item itemvalue="アプリケーション.Main2" />
         <item itemvalue="アプリケーション.Main" />
         <item itemvalue="アプリケーション.exercise5.Test3" />
-        <item itemvalue="アプリケーション.BankApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +209,8 @@
       <workItem from="1707373394351" duration="2000" />
       <workItem from="1707437487126" duration="15000" />
       <workItem from="1707784232574" duration="46000" />
-      <workItem from="1707784292424" duration="11227000" />
+      <workItem from="1707784292424" duration="12238000" />
+      <workItem from="1707870843787" duration="10289000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -525,14 +524,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707363741645</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2/13 Programming III&#10;* 配列かリストを作り、それぞれのピザのインスタンスを入れる。*&#10;*の問題から。&#10;* 支払いに進むので合計金額を表示する。*&#10;*の問題まで。">
+      <option name="closed" value="true" />
+      <created>1707795995649</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1707795995649</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="プロジェクト作成直後" />
     <MESSAGE value="chapter6-2 まで終わった&#10;練習6-2-1 まで終わった" />
     <MESSAGE value="chapter 6 終了。" />
     <MESSAGE value="chapter 7-2 まで" />
@@ -557,6 +563,7 @@
     <MESSAGE value="2/6 継承の問題(動物)。" />
     <MESSAGE value="2/7 継承の問題(動物(完成)) 。&#10;* 犬と猫。あわせて5匹誕生させ、makeSoundメソッドを実行する。*&#10;*の問題から。&#10;* O時間O分と表示する。 *&#10;*の問題の途中まで。" />
     <MESSAGE value="2/8 Programming III&#10;* lessonTimeの値を表示する。 O時間O分と表示する。*&#10;↑完成&#10;*の問題から。&#10;* 各クラスに&quot;ピザの名前&quot;とピザの値段を追加。*&#10;*の問題まで。" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/8 Programming III&#10;* lessonTimeの値を表示する。 O時間O分と表示する。*&#10;↑完成&#10;*の問題から。&#10;* 各クラスに&quot;ピザの名前&quot;とピザの値段を追加。*&#10;*の問題まで。" />
+    <MESSAGE value="2/13 Programming III&#10;* 配列かリストを作り、それぞれのピザのインスタンスを入れる。*&#10;*の問題から。&#10;* 支払いに進むので合計金額を表示する。*&#10;*の問題まで。" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/13 Programming III&#10;* 配列かリストを作り、それぞれのピザのインスタンスを入れる。*&#10;*の問題から。&#10;* 支払いに進むので合計金額を表示する。*&#10;*の問題まで。" />
   </component>
 </project>
