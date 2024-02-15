@@ -18,14 +18,16 @@ public class Lesson1 {
          例外が発生したときの処理
            }
          */
-        /*
-        String str = null;
+
         try {
             System.out.println(str.length());
         } catch (NullPointerException e) {
             System.out.println("NullPointerExceptionが発生しました。");
         }
-         */
+        finally {
+            System.out.println("12345");
+        }
+
 
         /*
         String str = "abc";
