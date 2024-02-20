@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/14 Programming III&#10;* チーズベーコンピザを作っています...&#10;  チーズベーコンピザをカットしています...&#10;  チーズベーコンピザを箱に入れています...&#10;  出来上がりました *&#10;*(↑完成)の問題から。&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*の問題まで。">
-      <change afterPath="$PROJECT_DIR$/src/exception1/Lesson3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception1/Lesson4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception1/Lesson5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Attack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Brave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Kick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Punch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Queen.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/15 Programming III&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*(完成)の問題から、(例題の問題終了。)&#10;* クイーンとゆうしゃも同様に攻撃させる。&#10;  新しいプレイヤーや攻撃方法を追加させる。*&#10;*の問題まで。">
+      <change afterPath="$PROJECT_DIR$/src/interface2/Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface2/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface2/ElectronicMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface2/Lesson1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface2/PaymentalStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception1/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception1/Lesson1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception1/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception1/Lesson2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -77,7 +70,7 @@
       <recent name="chapter11_1" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Main">
+  <component name="RunManager" selected="アプリケーション.interface2.Lesson1">
     <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception1.Lesson1" />
       <module name="part2" />
@@ -130,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pizza.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pizza.Main" />
+    <configuration name="interface2.Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interface2.Lesson1" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pizza.*" />
+          <option name="PATTERN" value="interface2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.interface2.Lesson1" />
         <item itemvalue="アプリケーション.Main" />
         <item itemvalue="アプリケーション.Lesson1" />
         <item itemvalue="アプリケーション.Lesson4" />
         <item itemvalue="アプリケーション.Lesson2" />
-        <item itemvalue="アプリケーション.pizza.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +212,8 @@
       <workItem from="1707784232574" duration="46000" />
       <workItem from="1707784292424" duration="12238000" />
       <workItem from="1707870843787" duration="10753000" />
-      <workItem from="1707957224863" duration="11335000" />
+      <workItem from="1707957224863" duration="11484000" />
+      <workItem from="1708389586019" duration="10490000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -549,14 +543,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707882092102</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="2/15 Programming III&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*(完成)の問題から、(例題の問題終了。)&#10;* クイーンとゆうしゃも同様に攻撃させる。&#10;  新しいプレイヤーや攻撃方法を追加させる。*&#10;*の問題まで。">
+      <option name="closed" value="true" />
+      <created>1707968760924</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1707968760924</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter 6 終了。" />
     <MESSAGE value="chapter 7-2 まで" />
     <MESSAGE value="chapter 7-3 まで" />
     <MESSAGE value="chapter 7.5 まで" />
@@ -581,6 +582,7 @@
     <MESSAGE value="2/8 Programming III&#10;* lessonTimeの値を表示する。 O時間O分と表示する。*&#10;↑完成&#10;*の問題から。&#10;* 各クラスに&quot;ピザの名前&quot;とピザの値段を追加。*&#10;*の問題まで。" />
     <MESSAGE value="2/13 Programming III&#10;* 配列かリストを作り、それぞれのピザのインスタンスを入れる。*&#10;*の問題から。&#10;* 支払いに進むので合計金額を表示する。*&#10;*の問題まで。" />
     <MESSAGE value="2/14 Programming III&#10;* チーズベーコンピザを作っています...&#10;  チーズベーコンピザをカットしています...&#10;  チーズベーコンピザを箱に入れています...&#10;  出来上がりました *&#10;*(↑完成)の問題から。&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*の問題まで。" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/14 Programming III&#10;* チーズベーコンピザを作っています...&#10;  チーズベーコンピザをカットしています...&#10;  チーズベーコンピザを箱に入れています...&#10;  出来上がりました *&#10;*(↑完成)の問題から。&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*の問題まで。" />
+    <MESSAGE value="2/15 Programming III&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*(完成)の問題から、(例題の問題終了。)&#10;* クイーンとゆうしゃも同様に攻撃させる。&#10;  新しいプレイヤーや攻撃方法を追加させる。*&#10;*の問題まで。" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/15 Programming III&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*(完成)の問題から、(例題の問題終了。)&#10;* クイーンとゆうしゃも同様に攻撃させる。&#10;  新しいプレイヤーや攻撃方法を追加させる。*&#10;*の問題まで。" />
   </component>
 </project>

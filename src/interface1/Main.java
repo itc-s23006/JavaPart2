@@ -13,7 +13,6 @@ public class Main {
          * 新しいプレイヤーや攻撃方法を追加させる。
          */
 
-
         System.out.println("クイーン");
         Player pyq = new Queen();
         pyq.setAt(new Kick());
