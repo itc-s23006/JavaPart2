@@ -28,7 +28,9 @@ public class Lesson1 {
         /* System.out.println("1: クレジットカード");
         System.out.println("2: 電子マネー");
         System.out.println("3: 現金"); */
-
+        for (int i = 0; i < options.length; i++) {
+            System.out.println((i + 1) + ":" + options[i].getName());
+        }
 
         int num = sc.nextInt();
 
