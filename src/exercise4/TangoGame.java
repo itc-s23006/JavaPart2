@@ -11,7 +11,7 @@ public class TangoGame {
          * チャレンジできる回数。
          * 答えを配列に入れる。
          */
-        String[] ans_list = {"KAKI", "MAIN"};
+        String[] ans_list = {"KAKI", "MINAMI"};
         Scanner sc = new Scanner(System.in);
 
         /* ランダムに答えを決め、char型配列。 */

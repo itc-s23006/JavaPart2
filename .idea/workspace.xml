@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/20 Programming III&#10;* クイーンとゆうしゃも同様に攻撃させる。&#10;  新しいプレイヤーや攻撃方法を追加させる。*&#10;* (完成) の問題から、&#10;* 配列を使って、getNameメソッドを呼び出す。*&#10;*(途中)(interface2, Lesson1, 28行目)の問題まで。">
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum1/Test6.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/21 Programming III&#10;* 配列を使って、getNameメソッドを呼び出す。*&#10;(途中)(interface2, Lesson1, 28行目)*&#10;* (完成) の問題から、&#10;* 発送完了した商品だけ表示。*&#10;*の問題(途中)まで。">
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/Lesson6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interface2/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface2/Lesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enum1/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enum1/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise4/TangoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise4/TangoGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +70,13 @@
       <recent name="chapter11_1" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Test6">
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test2" />
+  <component name="RunManager" selected="アプリケーション.OXGame">
+    <configuration name="Lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson3" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test3" />
+    <configuration name="Lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson4" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test4" />
+    <configuration name="Lesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson5" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test5" />
+    <configuration name="Lesson6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Lesson6" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum1.Test6" />
+    <configuration name="OXGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise4.OXGame" />
       <module name="part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum1.*" />
+          <option name="PATTERN" value="exercise4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Test6" />
-        <item itemvalue="アプリケーション.Test5" />
-        <item itemvalue="アプリケーション.Test4" />
-        <item itemvalue="アプリケーション.Test3" />
-        <item itemvalue="アプリケーション.Test2" />
+        <item itemvalue="アプリケーション.OXGame" />
+        <item itemvalue="アプリケーション.Lesson6" />
+        <item itemvalue="アプリケーション.Lesson5" />
+        <item itemvalue="アプリケーション.Lesson4" />
+        <item itemvalue="アプリケーション.Lesson3" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +214,9 @@
       <workItem from="1707870843787" duration="10753000" />
       <workItem from="1707957224863" duration="11484000" />
       <workItem from="1708389586019" duration="10926000" />
-      <workItem from="1708475704343" duration="10289000" />
+      <workItem from="1708475704343" duration="10571000" />
+      <workItem from="1708560675741" duration="25000" />
+      <workItem from="1708562061727" duration="10731000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -560,14 +562,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708400478674</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2/21 Programming III&#10;* 配列を使って、getNameメソッドを呼び出す。*&#10;(途中)(interface2, Lesson1, 28行目)*&#10;* (完成) の問題から、&#10;* 発送完了した商品だけ表示。*&#10;*の問題(途中)まで。">
+      <option name="closed" value="true" />
+      <created>1708486836265</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1708486836265</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter 7-3 まで" />
     <MESSAGE value="chapter 7.5 まで" />
     <MESSAGE value="chapter 8-2 の途中まで" />
     <MESSAGE value="chapter 8 終了" />
@@ -592,6 +601,7 @@
     <MESSAGE value="2/14 Programming III&#10;* チーズベーコンピザを作っています...&#10;  チーズベーコンピザをカットしています...&#10;  チーズベーコンピザを箱に入れています...&#10;  出来上がりました *&#10;*(↑完成)の問題から。&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*の問題まで。" />
     <MESSAGE value="2/15 Programming III&#10;* nが&quot;0&quot;だったら、Javaを出力。*&#10;*(完成)の問題から、(例題の問題終了。)&#10;* クイーンとゆうしゃも同様に攻撃させる。&#10;  新しいプレイヤーや攻撃方法を追加させる。*&#10;*の問題まで。" />
     <MESSAGE value="2/20 Programming III&#10;* クイーンとゆうしゃも同様に攻撃させる。&#10;  新しいプレイヤーや攻撃方法を追加させる。*&#10;* (完成) の問題から、&#10;* 配列を使って、getNameメソッドを呼び出す。*&#10;*(途中)(interface2, Lesson1, 28行目)の問題まで。" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/20 Programming III&#10;* クイーンとゆうしゃも同様に攻撃させる。&#10;  新しいプレイヤーや攻撃方法を追加させる。*&#10;* (完成) の問題から、&#10;* 配列を使って、getNameメソッドを呼び出す。*&#10;*(途中)(interface2, Lesson1, 28行目)の問題まで。" />
+    <MESSAGE value="2/21 Programming III&#10;* 配列を使って、getNameメソッドを呼び出す。*&#10;(途中)(interface2, Lesson1, 28行目)*&#10;* (完成) の問題から、&#10;* 発送完了した商品だけ表示。*&#10;*の問題(途中)まで。" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/21 Programming III&#10;* 配列を使って、getNameメソッドを呼び出す。*&#10;(途中)(interface2, Lesson1, 28行目)*&#10;* (完成) の問題から、&#10;* 発送完了した商品だけ表示。*&#10;*の問題(途中)まで。" />
   </component>
 </project>
