@@ -1,4 +1,5 @@
 package exercise4;
+import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -11,7 +12,7 @@ public class TangoGame {
          * チャレンジできる回数。
          * 答えを配列に入れる。
          */
-        String[] ans_list = {"KAKI", "MINAMI"};
+        String[] ans_list = {"HARUKA", "MINAMI", "ROSALIE", "BERONIKA"};
         Scanner sc = new Scanner(System.in);
 
         /* ランダムに答えを決め、char型配列。 */
@@ -28,7 +29,9 @@ public class TangoGame {
             guess[i] = '_';
         }
 
-        int count = 5;
+        // どんな文字列が入っても、入った文字数分入力できる(機能を追加)
+        // 例: number => 6回, char => 4回, tangogeme => 9回
+        int count = ans_word.length;
         boolean completed = false;
         while (!completed && count > 0) {
             System.out.print("現在の状態：");
@@ -55,8 +58,15 @@ public class TangoGame {
 
             if (checkwin(guess)) {
                 completed = true;
-                System.out.println("正解です！");
+                System.out.println("ゲームクリア！");
+                // ゲームクリアしたら単語を表示する。(機能を追加)
+                printArray(guess);
             }
+
+            // 単語が当たっていても残り回数表示。(機能を追加)
+             if (correctGuess) {
+                 System.out.println("残り回数：" + count);
+             }
 
             /* ゲームオーバー */
             if (!correctGuess) {
@@ -66,6 +76,9 @@ public class TangoGame {
 
         if (!completed) {
             System.out.println("ゲームオーバー");
+            // ゲームオーバーしたら正解の単語を表示する。(機能を追加)
+            System.out.println("正解:");
+            printArray(ans_word);
         }
     }
 
