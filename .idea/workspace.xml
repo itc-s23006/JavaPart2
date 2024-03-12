@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="2/27 Programming III (テスト)&#10;* TangoGame.java 機能追加。*">
-      <change afterPath="$PROJECT_DIR$/src/test/MathPracticeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MathProblemGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MathProblemSolver.java" afterDir="false" />
+    <list default="true" id="851392f7-5597-409f-87bb-32543fa19bb3" name="変更" comment="3/12 Programming III (単位保留の課題)&#10;* Programming IIIの期末テストの課題(2/28の2限目の課題)を作成。*">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MathPracticeApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MathProblemGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MathProblemSolver.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +228,7 @@
       <workItem from="1709005879070" duration="9000" />
       <workItem from="1710123652923" duration="86000" />
       <workItem from="1710219164452" duration="307000" />
-      <workItem from="1710219485256" duration="2467000" />
+      <workItem from="1710219485256" duration="3830000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成直後">
       <option name="closed" value="true" />
@@ -598,14 +598,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709005838988</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="3/12 Programming III (単位保留の課題)&#10;* Programming IIIの期末テストの課題(2/28の2限目の課題)を作成。*">
+      <option name="closed" value="true" />
+      <created>1710222184008</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1710222184008</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter 8 終了" />
     <MESSAGE value="chapter 9まで 終了" />
     <MESSAGE value="教科書P265の途中まで" />
     <MESSAGE value="教科書P284まで終了。" />
@@ -630,6 +637,7 @@
     <MESSAGE value="2/21 Programming III&#10;* 配列を使って、getNameメソッドを呼び出す。*&#10;(途中)(interface2, Lesson1, 28行目)*&#10;* (完成) の問題から、&#10;* 発送完了した商品だけ表示。*&#10;*の問題(途中)まで。" />
     <MESSAGE value="2/22 Programming III (最終日)&#10;* 発送完了した商品だけ表示。*&#10;*(途中)の問題から、&#10;* 沖縄の観光名所(mapの問題)*&#10;*(完成)の問題まで。" />
     <MESSAGE value="2/27 Programming III (テスト)&#10;* TangoGame.java 機能追加。*" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/27 Programming III (テスト)&#10;* TangoGame.java 機能追加。*" />
+    <MESSAGE value="3/12 Programming III (単位保留の課題)&#10;* Programming IIIの期末テストの課題(2/28の2限目の課題)を作成。*" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/12 Programming III (単位保留の課題)&#10;* Programming IIIの期末テストの課題(2/28の2限目の課題)を作成。*" />
   </component>
 </project>
